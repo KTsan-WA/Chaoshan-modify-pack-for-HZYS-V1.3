@@ -1,7 +1,7 @@
 # Chaoshan-modify-pack-for-HZYS-V1.3
 本项目为DSP-8192的活字印刷程序（HuoZiYinShua）专用的潮汕英豪传语音包。<br>
-关于此项目，可在 Wiki 当中获得更多信息。
-点击右侧 Releases 可下载所有的汉语音节。
+关于此项目，可在上方的 Wiki 选项当中获得更多信息。
+点击右侧 Releases 可下载正式版活字印刷软体。
 
 ## 鸣谢
 - [五洋道河湾桥](https://space.bilibili.com/6010845)（X/Twitter: [@bayridge_lingx](https://x.com/bayridge_lingx)）
