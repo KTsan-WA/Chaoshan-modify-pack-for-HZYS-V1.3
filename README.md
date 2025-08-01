@@ -33,7 +33,7 @@
 
 > ### <p align="center">河湾橋 (Bayridge_Lingx) による声明</p>
 > 
-> 私はプログラミングができないため、このソフトウェアは吉々国のものを流用したものです。原作者は [@DSP_8192](https://github.com/DSP-8192/HuoZiYinShua) 氏です。
+> 私はプログラミングができないため、このソフトウェアは吉々国（電棍OTTOコミュニティ）のものを流用したものです。原作者は [@DSP_8192](https://github.com/DSP-8192/HuoZiYinShua) 氏です。
 > 
 > ただし、潮汕活字印刷の音声データは、私自身と潮汕民の方々（百事、昊哥、潮汕広角、温得菈酷慕233、その他記載漏れの方々にはお詫び申し上げます）で収集したもので、大部分は私が収集しました。
 > 
@@ -61,11 +61,11 @@ Click Releases on the right to download the stable version of the Audio Letterpr
 
 > ### <p align="center">Statement from Bayridge_Lingx (河湾桥)</p>  
 >  
-> As I lack programming skills, this software was adapted from the Otto community (吉吉国). The original author is [@DSP_8192](https://github.com/DSP-8192/HuoZiYinShua).  
+> As I lack programming skills, this software was adapted from the Diangun Otto community (吉吉国). The original author is [@DSP_8192](https://github.com/DSP-8192/HuoZiYinShua).  
 >   
 > However, the audio sources for the Chaoshan audio letterpress content were gathered by myself and fellow Chaoshan subculture enthusiasts (e.g., 百事, 昊哥, 潮汕广角, 温得菈酷慕233, and others whom I may have inadvertently omitted—I apologize for any oversight). That said, the majority were collected by me.  
 >   
-> Objectively speaking, the over 400 Mandarin syllables included here are more comprehensive than the Otto community’s letterpress audio sources (360 syllables).  
+> Objectively speaking, the over 400 Mandarin syllables included here are more comprehensive than the Diangun Otto community’s letterpress audio sources (360 syllables).  
 > Additional audio for specific phrases has also been added, which should suffice for general use.  
 >  
 > <p align="right">— Bayridge_Lingx, July 27, 2025</p>  
